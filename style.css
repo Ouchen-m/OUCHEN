@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(114, 113, 101);
+}
+
+nav {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    background: rgb(230, 221, 221);
+}
+
+li {
+    display: inline-block;
+    margin: 10px;
+}
+
+a {
+    color: rgb(163, 141, 115);
+    text-decoration: none
+}
